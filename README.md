@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Eu sou Nicolas Srour</h1>
-<h3 align="center">Sou um estudante de Data Science apaixonado por Machine Learning, Big Data, SQL e Python. Atualmente, estou estudando para me tornar um profissional de Data Science e estou sempre procurando aprender mais sobre as tecnologias que cercam o mundo dos dados.</h3>
+<h3 align="left">Sou um estudante de Data Science apaixonado por Machine Learning, Big Data, SQL e Python. 
+Atualmente, estou estudando para me tornar um profissional de Data Science e estou sempre procurando aprender mais sobre as tecnologias que cercam o mundo dos dados.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
