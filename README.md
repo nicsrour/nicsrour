@@ -1,4 +1,4 @@
-Olá, eu sou Nicolas Srour! 👋
+##Olá, eu sou Nicolas Srour! 👋
 Sou um estudante de Data Science apaixonado por Machine Learning, Big Data, SQL e Python. Atualmente, estou estudando para me tornar um profissional de Data Science e estou sempre procurando aprender mais sobre as tecnologias que cercam o mundo dos dados.
 
 Algumas coisas sobre mim
